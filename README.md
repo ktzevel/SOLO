@@ -1,7 +1,7 @@
 # SOLO
 Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception
 
-[![Website](docs/badges/badge-website.svg)](https://marigoldmonodepth.github.io)
+[![Website](docs/badges/badge-website.svg)](https://ktzevel.github.io/SOLO/)
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](http://arxiv.org/abs/2407.20336)
 
 Konstantinos Tzevelekakis,
