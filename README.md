@@ -1,6 +1,6 @@
 # Sun Off, Lights On (SOLO): Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception
 
-__WACV 2025 (Oral, Best Paper Award Candidate)__
+__WACV 2025 (Oral)__
 
 This repository represents the official implementation of the paper titled "Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception".
 
@@ -26,10 +26,9 @@ physically based approach in 3D for simulating nighttime.
 Please cite our paper:
 
 ```bibtex
-@article{tzevelekakis2024sun,
-  title={Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception},
-  author={Tzevelekakis, Konstantinos and Zhang, Shutong and Van Gool, Luc and Sakaridis, Christos},
-  journal={arXiv preprint arXiv:2407.20336},
-  year={2024}
-}
+@inproceedings{tzevelekakis2025solo,
+author = {Tzevelekakis, Konstantinos and Zhang, Shutong and Van Gool, Luc and Sakaridis, Christos},
+title = {{Sun Off, Lights On}: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception},
+booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+year = {2025}}
 ```
