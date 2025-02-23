@@ -32,3 +32,5 @@ title = {{Sun Off, Lights On}: Photorealistic Monocular Nighttime Simulation for
 booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
 year = {2025}}
 ```
+## Acknowledgment
+This work was supported by an ETH Career Seed Award.
