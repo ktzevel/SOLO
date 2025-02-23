@@ -20,6 +20,15 @@ physically based approach in 3D for simulating nighttime.
 
 ## 📢 News
 2024-11-19: Initial setup, authors and citation related information is released.<br>
+2025-02-23: Initial code uploaded.<br>
+
+
+## 📌 To-Do List
+- [x] Upload project related information.
+- [x] Upload code for SOLO pipeline.
+- [x] Provide README files describing the functionality of the SOLO pipeline.
+- [ ] Upload adapted [CISS](https://github.com/SysCV/CISS) `evaluation-code` for SOLO on Semantic Segmentation.	
+- [ ] Provide instructions for running SOLO pipeline and results replication.
 
 ## 🎓 Citation
 

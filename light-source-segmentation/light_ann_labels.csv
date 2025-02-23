@@ -1,0 +1,16 @@
+name,orig. id,pred. id,new id
+unlabeled,0,0,0
+window_building,1,1,1
+window_parked,2,2,2
+window_transport,3,3,3
+traffic_light,4,4,4
+street_light_HT,5,5,5
+street_light_LT,6,5,5
+parked_front,7,6,9
+parked_rear,8,7,10
+moving_front,9,6,9
+moving_rear,10,7,10
+advertisement,11,8,11
+clock,12,9,13
+inferred,13,9,13
+windows_group,14,0,0

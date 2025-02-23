@@ -1,0 +1,3 @@
+Import:
+- configs/hrnet/metafile.yaml
+- configs/segformer/metafile.yaml
