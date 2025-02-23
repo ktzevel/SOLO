@@ -16,7 +16,7 @@
 - semantics of the ACDC dataset (sample available here: [acdc_sem_label_ids.tar.gz](https://mega.nz/file/V2JH0SJB#kjLMWENNBQEXqAFL7pW-k14IpEJ5MErRBO3cFoCxQwU)	)
 - filtered depth estimations (sample available here: [unidepth_conv-bilinear_upsampled-bilateral_filter_ss5_l0.tar.gz](https://mega.nz/file/9npRAIjB#8ClDstsWaC2fcVROnk3pZbUVm8jmNgLAM7vvhv3eW0g))
 - surface normal estimations (sample available here: [idisc-trained_on_nyu-acdc-normals.tar.gz](https://mega.nz/file/1zQSnbZT#YR1L_gTzdkZz5F2ixh7G3bJ8rzjZwgzkVC49riAOVAU))
-- daytime input images (sample available here: []())
+- daytime input images from reference split of nighttime ([download from ACDC dataset website](https://acdc.vision.ee.ethz.ch/download))
 
 
 ## Output:

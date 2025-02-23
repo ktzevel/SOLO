@@ -18,17 +18,14 @@ by converting each daytime image to its nighttime counterpart while preserving t
 semantic segmentation annotations. To the best of our knowledge, SOLO is the first monocular
 physically based approach in 3D for simulating nighttime.
 
-## 📢 News
-2024-11-19: Initial setup, authors and citation related information is released.<br>
-2025-02-23: Initial code uploaded.<br>
-
-
-## 📌 To-Do
-- [x] Upload project related information.
-- [x] Upload code for SOLO pipeline.
-- [x] Provide README files describing the functionality of the SOLO pipeline.
-- [ ] Upload adapted [CISS](https://github.com/SysCV/CISS) `evaluation-code` for SOLO on Semantic Segmentation.	
-- [ ] Provide instructions for running SOLO pipeline and results replication.
+## 📢 News & To-Do
+- [x] `2024-11-19`: Project related information.
+- [x] `2025-02-23`: Code for SOLO pipeline and intermediate pipeline results.
+- [x] `2025-02-23`: The Nighttime Illuminants Dataset.
+- [x] `2025-02-23`: The ACDC Light Source Annotations.
+- [x] `2025-02-23`: README files describing the functionality of the SOLO pipeline.
+- [ ] Adapted [CISS](https://github.com/SysCV/CISS) `evaluation-code` for SOLO on Semantic Segmentation.	
+- [ ] Instructions for installing and running SOLO pipeline and results replication.
 
 ## 🎓 Citation
 

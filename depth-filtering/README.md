@@ -19,9 +19,9 @@ This code is adapted from the [fog_simulation_DBF](https://github.com/sakaridis/
   - `npy2mat.py`
 - `main.sh` (example script for running instance-reference cross-bilateral filter)
   - input:
-    - instances of the ACDC dataset (sample available here: [instance_label_ids-single_channel.tar.gz](https://mega.nz/file/1rRl0IaS#ebPnE6TJptrD5fbB5G2QehF4G-lkebgQ_vNb-wcPGt0))
-    - semantics of the ACDC dataset (sample available here: [acdc_sem_label_ids.tar.gz](https://mega.nz/file/V2JH0SJB#kjLMWENNBQEXqAFL7pW-k14IpEJ5MErRBO3cFoCxQwU))
-    - daytime input images (sample available here: []())
+    - instances of the ACDC dataset (sample available here: [instances](https://mega.nz/file/1rRl0IaS#ebPnE6TJptrD5fbB5G2QehF4G-lkebgQ_vNb-wcPGt0))
+    - semantics of the ACDC dataset (sample available here: [semantics](https://mega.nz/file/V2JH0SJB#kjLMWENNBQEXqAFL7pW-k14IpEJ5MErRBO3cFoCxQwU))
+    - daytime input images from reference split of nighttime ([download from ACDC dataset website](https://acdc.vision.ee.ethz.ch/download))
     - initial depth estimations in .mat format.
   - outputs:
-	- the filtered depth estimations.
+	- the filtered depth estimations. (sample available here: [unidepth_conv-bilinear_upsampled-bilateral_filter_ss5_l0.tar.gz](https://mega.nz/file/9npRAIjB#8ClDstsWaC2fcVROnk3pZbUVm8jmNgLAM7vvhv3eW0g))

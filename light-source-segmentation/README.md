@@ -31,3 +31,9 @@ The code is adapted from the [MMSegmentation](https://github.com/open-mmlab/mmse
 
 - `light_ann_labels.csv` (Is a label index for the light source categories)
 
+
+## ACDC Light Sources
+
+### Download:
+For now, you can download the ACDC light source panoptic annotations from [here](https://mega.nz/file/0jZniLSB#iVc0Qh894VvnMqM_Xj0sTv_M4E97CmdZ62QWIb2vIlM).
+

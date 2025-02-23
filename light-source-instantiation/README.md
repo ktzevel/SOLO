@@ -3,8 +3,8 @@
 ## Input:
 1. panoptic annotations of light sources.
 2. panoptic annotations of ACDC.
-3. nighttime illuminants dataset (json form).
-4. depth maps.
+3. nighttime illuminants dataset.
+4. depth estimations.
 
 
 ## Output:
