@@ -23,7 +23,7 @@ physically based approach in 3D for simulating nighttime.
 2025-02-23: Initial code uploaded.<br>
 
 
-## 📌 To-Do List
+## 📌 To-Do
 - [x] Upload project related information.
 - [x] Upload code for SOLO pipeline.
 - [x] Provide README files describing the functionality of the SOLO pipeline.
